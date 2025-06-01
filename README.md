@@ -1,5 +1,5 @@
 # 🙋‍♂️ About Me:
- Go to my website : <a href="tinyurl.com/sadmanjoy">sadmanjoy</a>
+ Go to my website : <a href="https://tinyurl.com/sadmanjoy">sadmanjoy</a>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sadman-Joy&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
